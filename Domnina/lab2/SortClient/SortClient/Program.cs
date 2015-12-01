@@ -28,9 +28,7 @@ namespace SortClient
 
         public int sort()
         {
-            //try
-            //{
-                task = obj.GetTask();
+                            task = obj.GetTask();
                 if (task == null)
                     return 0;
 
@@ -55,12 +53,8 @@ namespace SortClient
                 Console.Out.WriteLine("Обработанные данные:");
                 Console.Out.WriteLine("Max: " + max + ". Min: " + min);
                 obj.Finish(task, max, min);
-            //}
-            //catch (System.Net.WebException e)
-            //{
-            //    Console.Out.WriteLine("Error " + e.Message);
-            //}
-                task.stop = 10; //МЕГАКОСТЫЛЬ
+            
+                task.stop = 10; 
                 task.start = 6;
             return 1;
         }
