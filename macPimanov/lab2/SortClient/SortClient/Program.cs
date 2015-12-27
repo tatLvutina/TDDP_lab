@@ -12,7 +12,7 @@ namespace SortClient
 {
     class Shell
     {
-        TcpChannel kanal;
+        TcpChannel chan;
         SharedObject obj;
         int[] arr;
         int max;
@@ -21,9 +21,9 @@ namespace SortClient
 
         public Shell()
         {
-            kanal = new TcpChannel();
-            ChannelServices.RegisterChannel(kanal, false);
-            obj = (SharedObject)Activator.GetObject(typeof(SortLibrary.SharedObject), "tcp://localhost:8081/DataPool");
+            chan = new TcpChannel();
+            ChannelServices.RegisterChannel(chan, false);
+            obj = (SharedObject)Activator.GetObject(typeof(SortLibrary.SharedObject), "tcp://localhost:8081/Пул данных");
         }
 
         public int sort()
@@ -53,14 +53,17 @@ namespace SortClient
                             arr[j] = temp;
                         }
                     }
-
-                    
                 }
-
-
                 Console.Out.WriteLine("Обработанные данные:");
                 display();
                 obj.Finish(task, arr);
+            //}
+            //catch (System.Net.WebException e)
+            //{
+            //    Console.Out.WriteLine("Error " + e.Message);
+            //}
+            //task.stop = 10;
+            //task.start = 6;
             return 1;
         }
 
@@ -76,9 +79,7 @@ namespace SortClient
     }
 
     class Program
-    {
-
-
+    {        
         static void Main(string[] args)
         {
             Shell shellObj = new Shell();
@@ -87,10 +88,8 @@ namespace SortClient
             while (shellObj.sort() != 0)
                 Console.In.ReadLine();
 
-            Console.Out.WriteLine("Заданий нет");
-            Console.ReadLine();
-            
-
+            Console.Out.WriteLine("Задания кончились, нажмите Enter для выхода");
+            Console.ReadLine();      
         }
     }
 }
