@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Collections;
+
+namespace SortLibrary
+{
+    [Serializable]
+    public class Message
+    {
+        public List<int> data = new List<int>();
+    }
+
+    public class SharedObject : MarshalByRefObject
+    {
+        public Queue<Message> messages;
+
+        public SharedObject()
+        {
+            messages = new Queue<Message>();
+        }
+
+        public void send(int id, Message msg)
+        {
+            Log.Print("Client has sent a message");
+            messages.Enqueue(msg);
+        }
+
+        public Message recieve(int id)
+        {
+                if (messages.Count != 0)
+                {
+                    Log.Print("Client has recieved a message");
+                    return messages.Dequeue();
+                }
+
+                return null;
+
+            
+        }
+    }
+
+    [Serializable]
+    public class Task
+    {
+
+    }
+
+    public class Log
+    {
+        // вывести время и msg
+        public static void Print(String msg)
+        {
+            System.Console.WriteLine("[" + DateTime.Now.Hour.ToString() + ":" +
+                DateTime.Now.Minute.ToString() + ":" + DateTime.Now.Second.ToString() 
+            + "] " + msg);
+        }
+
+
+    }
+}
