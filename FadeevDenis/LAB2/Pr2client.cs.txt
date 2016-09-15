@@ -1,0 +1,72 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using SortLibrary;
+using System.Runtime.Remoting;
+using System.Runtime.Remoting.Channels;
+using System.Runtime.Remoting.Channels.Tcp;
+
+namespace SortClient
+{
+class Shell
+{
+TcpChannel chan;
+SharedObject obj;
+int[] arr;
+int max;
+int min;
+Task task;
+public Shell()
+{
+сhan = new TcpChannel();
+ChannelServices.RegisterChannel(chan, false);
+obj = (SharedObject)Activator.GetObject(typeof(SortLibrary.SharedObject), "tcp://localhost:8081/DataPool");
+}
+public int sort()
+{
+task = obj.GetTask();
+if (task == null)
+return 0;
+arr = obj.FetchData(task);
+               
+Console.Out.WriteLine("ПОЛУЧЕННЫЕ ДАННЫЕ:");
+display();
+int  outer;
+max = arr[0];
+min = arr[0];
+for (outer = 0; outer < task.stop - task.start; outer++)
+{
+if (max < arr[outer]) max = arr[outer];
+if (min > arr[outer]) min = arr[outer];
+}
+Console.Out.WriteLine("ОБРАБОТАННЫЕ ДАННЫЕ:");
+Console.Out.WriteLine("Max: " + max + ". Min: " + min);
+obj.Finish(task, max, min);
+task.stop = 11;
+task.start = 5;
+return 1;
+}
+void display()
+{
+for (int i = task.start; i < task.stop; i++)
+{
+Console.Out.Write(arr[i]);
+Console.Out.Write("  ");
+}
+Console.Out.WriteLine();
+}
+}
+class Program
+{
+static void Main(string[] args)
+{
+Shell shellObj = new Shell();
+Console.Out.WriteLine("ЗАПУЩЕН КЛИЕНТ");
+while (shellObj.sort() != 0)
+Console.In.ReadLine();
+Console.Out.WriteLine("НАЖМИТЕ Enter...");
+Console.ReadLine();
+}
+}
+}
