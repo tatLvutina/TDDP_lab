@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
+using NetRemotingLibrary;
 using System.Runtime.Remoting.Channels.Tcp;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Services;
@@ -15,7 +7,7 @@ using System.Runtime.Remoting;
 
 namespace NetRemotingClient
 {
-    public partial class EnteringForm : Form
+    public partial class EnteringForm : System.Windows.Forms.Form
     {
         public EnteringForm()
         {
@@ -24,7 +16,7 @@ namespace NetRemotingClient
 
 
         const int SYS_PORT = 9232;
-        private NetRemotingLibrary.RemotingLibrary remotingClass = null;
+        private RemotingLibrary remotingClass = null;
 
 
 
@@ -34,7 +26,8 @@ namespace NetRemotingClient
             {
                 TcpChannel clientChannel = new TcpChannel();
                 ChannelServices.RegisterChannel(clientChannel, true);
-                remotingClass = (NetRemotingLibrary.RemotingLibrary)Activator.GetObject(typeof(NetRemotingLibrary.RemotingLibrary), string.Format("tcp://localhost:{0}/TestClass", SYS_PORT));
+                remotingClass = (RemotingLibrary)Activator.GetObject(typeof(RemotingLibrary), 
+                    string.Format("tcp://localhost:{0}/TestClass", SYS_PORT));
             }
         }
 
@@ -58,7 +51,7 @@ namespace NetRemotingClient
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error: " + ex.Message);
+                System.Windows.Forms.MessageBox.Show("Error: " + ex.Message);
             }
 
         }
@@ -80,6 +73,9 @@ namespace NetRemotingClient
                 else
                 {
                     if ((text[i] >= '0') && (text[i] <= '9'))
+                        result += text[i];
+
+                    if ((i == 0) && text[i] == '-')
                         result += text[i];
 
                     if (text[i] == '.')
