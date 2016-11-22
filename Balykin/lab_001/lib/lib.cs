@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lib
 {
-    public class lib
+    public class lib : MarshalByRefObject
     {
     }
 }
