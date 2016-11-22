@@ -8,5 +8,9 @@ namespace lib
 {
     public class lib : MarshalByRefObject
     {
+        public double Sum(double a, double b)
+        {
+            return (a + b);
+        }
     }
 }

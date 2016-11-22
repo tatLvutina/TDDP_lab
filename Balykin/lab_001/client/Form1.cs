@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-using NetRemotingLibrary;
 using System.Runtime.Remoting.Channels.Tcp;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Services;
 using System.Runtime.Remoting;
+
+using lib;
 
 namespace client
 {
@@ -24,7 +25,18 @@ namespace client
         }
 
         const int SYS_PORT = 9232;
-        private lib remotingClass = null;
+        private lib.lib remotingClass = null;
+
+        private void Connect()
+        {
+            if (remotingClass == null)
+            {
+                TcpChannel clientChannel = new TcpChannel();
+                ChannelServices.RegisterChannel(clientChannel, true);
+                remotingClass = (lib.lib)Activator.GetObject(typeof(lib.lib),
+                    string.Format("tcp://localhost:{0}/TestClass", SYS_PORT));
+            }
+        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -66,7 +78,22 @@ namespace client
 
         private void button1_Click(object sender, EventArgs e)
         {
+            try
+            {
+                double a = double.Parse(textBox1.Text.Replace('.', ','));
+                double b = double.Parse(textBox2.Text.Replace('.', ','));
+ 
+                if (remotingClass == null)
+                    Connect();
 
+                double root = remotingClass.Sum(a,b);
+
+                textBox3.Text = string.Format("{0}", root.ToString());
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show("Error: " + ex.Message);
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -81,7 +108,7 @@ namespace client
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            textBox3.Text = Filter(textBox3.Text);
+        
         }
 
         private void label1_Click(object sender, EventArgs e)
