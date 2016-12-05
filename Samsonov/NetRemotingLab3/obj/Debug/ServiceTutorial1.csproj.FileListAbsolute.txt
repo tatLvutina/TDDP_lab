@@ -1,0 +1,3 @@
+D:\[PROGRAMS]\RoboticsStudio\samples\ServiceTutorials\Tutorial1\CSharp\obj\Debug\ServiceTutorial1.csprojResolveAssemblyReference.cache
+D:\[PROGRAMS]\RoboticsStudio\samples\ServiceTutorials\Tutorial1\CSharp\obj\Debug\User.ServiceTutorial1.Y2006.M06.dll
+D:\[PROGRAMS]\RoboticsStudio\samples\ServiceTutorials\Tutorial1\CSharp\obj\Debug\User.ServiceTutorial1.Y2006.M06.pdb
