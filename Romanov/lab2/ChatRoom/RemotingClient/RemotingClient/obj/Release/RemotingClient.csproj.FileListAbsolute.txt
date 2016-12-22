@@ -1,0 +1,11 @@
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemotingClient.exe.config
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemotingClient.exe
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemotingClient.pdb
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemoteBase.dll
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemoteBase.pdb
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.frmChatWin.resources
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.frmLogin.resources
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.Properties.Resources.resources
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.csproj.GenerateResource.Cache
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.exe
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.pdb

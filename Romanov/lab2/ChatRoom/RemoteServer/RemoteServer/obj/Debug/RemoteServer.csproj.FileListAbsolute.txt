@@ -1,0 +1,52 @@
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Константин\Google Диск\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+E:\трод\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\Александр\Desktop\lab2_csh\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\2\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Users\Александр\Desktop\2\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Александр\Desktop\2\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
