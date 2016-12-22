@@ -1,0 +1,44 @@
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.Cache
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+F:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+F:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+F:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+F:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+F:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+F:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+F:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+F:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+F:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+F:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+F:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.Cache
+E:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+E:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+E:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+E:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+E:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+E:\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+E:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+E:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+E:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+E:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+E:\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+C:\Users\Александр\Desktop\1\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.Cache

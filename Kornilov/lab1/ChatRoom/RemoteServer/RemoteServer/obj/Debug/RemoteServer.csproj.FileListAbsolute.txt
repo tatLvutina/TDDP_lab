@@ -1,0 +1,40 @@
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+F:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+F:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+F:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+F:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+F:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+F:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+F:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+F:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+F:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+F:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+E:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+E:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+E:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+E:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+E:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+E:\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+E:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+E:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+E:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+E:\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\Александр\Desktop\1\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache

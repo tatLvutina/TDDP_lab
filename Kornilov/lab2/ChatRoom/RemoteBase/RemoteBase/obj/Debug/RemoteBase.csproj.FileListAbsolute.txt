@@ -1,0 +1,10 @@
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.dll
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.pdb
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.csprojResolveAssemblyReference.cache
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.dll
+C:\Users\Raptor\Documents\Visual Studio 2015\Projects\lab2_csh\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.pdb
+F:\трод\lab2_csh\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.dll
+F:\трод\lab2_csh\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.pdb
+F:\трод\lab2_csh\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.csprojResolveAssemblyReference.cache
+F:\трод\lab2_csh\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.dll
+F:\трод\lab2_csh\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.pdb

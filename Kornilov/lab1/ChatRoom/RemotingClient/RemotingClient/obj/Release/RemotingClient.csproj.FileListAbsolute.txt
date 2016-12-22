@@ -1,0 +1,10 @@
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemotingClient.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemotingClient.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\bin\Release\RemoteBase.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.frmChatWin.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.frmLogin.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.Properties.Resources.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.csproj.GenerateResource.Cache
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemotingClient\RemotingClient\obj\Release\RemotingClient.pdb

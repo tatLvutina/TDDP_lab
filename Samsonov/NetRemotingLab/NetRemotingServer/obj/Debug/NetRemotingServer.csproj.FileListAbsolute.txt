@@ -1,8 +1,0 @@
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\bin\Debug\NetRemotingServer.exe.config
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\obj\Debug\NetRemotingServer.csprojResolveAssemblyReference.cache
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\bin\Debug\NetRemotingServer.exe
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\bin\Debug\NetRemotingServer.pdb
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\bin\Debug\NetRemotingLibrary.dll
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\bin\Debug\NetRemotingLibrary.pdb
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\obj\Debug\NetRemotingServer.exe
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingServer\obj\Debug\NetRemotingServer.pdb
