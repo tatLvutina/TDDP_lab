@@ -1,0 +1,10 @@
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\bin\Debug\NetRemotingClient.exe.config
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\bin\Debug\NetRemotingClient.exe
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\bin\Debug\NetRemotingClient.pdb
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\bin\Debug\NetRemotingLibrary.dll
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\bin\Debug\NetRemotingLibrary.pdb
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\obj\Debug\NetRemotingClient.exe
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\obj\Debug\NetRemotingClient.pdb
+c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingClient\obj\Debug\NetRemotingClient.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Documents\Visual Studio 2012\Projects\NetRemotingLab\NetRemotingClient\obj\Debug\NetRemotingClient.EnteringForm.resources
+C:\Users\Иван\Documents\Visual Studio 2012\Projects\NetRemotingLab\NetRemotingClient\obj\Debug\NetRemotingClient.csproj.GenerateResource.Cache
