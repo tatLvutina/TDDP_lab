@@ -1,0 +1,47 @@
+\documentclass[a4paper,12pt]{report}
+
+\usepackage{setspace}
+\onehalfspacing
+
+
+\input{packages}		% Подключаемые пакеты
+\input{styles}			% Пользовательские стили
+\usepackage{eso-pic}
+
+\newcommand\BackgroundPic{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+		\vfill
+		\centering
+		\includegraphics[width=\paperwidth,height=\paperheight]{./myimages/second.pdf}
+		\vfill
+}}}
+		
+		
+\newcommand\BackgroundPicxx{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+		\vfill
+		\centering
+		\includegraphics[width=\paperwidth,height=\paperheight]{./myimages/first.pdf}
+		\vfill
+}}}
+				
+\newcommand\BackgroundPicx{
+	\put(0,0){
+		\parbox[b][\paperheight]{\paperwidth}{%
+		\vfill
+		\centering
+		\includegraphics[width=\paperwidth,height=\paperheight]{./myimages/third.pdf}
+		\vfill
+}}}				
+				
+\begin{document}
+	\AddToShipoutPicture*{\BackgroundPicxx}	
+	\input{names}			% Переопределение именований
+	\input{title}			% Титульный лист
+	\AddToShipoutPicture*{\BackgroundPic}	
+	\AddToShipoutPicture{\BackgroundPicx}
+	\input{maintext}	% Введение
+	\input{conclusion}		% Заключение
+\end{document}
