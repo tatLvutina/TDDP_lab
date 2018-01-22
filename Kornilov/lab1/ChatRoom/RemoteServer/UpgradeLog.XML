@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemoteServer">
+</Property><Property Name="Solution File" Value="D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer.sln">
+</Property><Property Name="User Options File" Value="D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer.suo">
+</Property><Property Name="Date" Value="7 сентября 2016 г.">
+</Property><Property Name="Time" Value="17:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RemoteServer.sln" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteServer.suo" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer.suo">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Project file successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\RemoteServer.csproj">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Form1.cs" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Form1.Designer.cs" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Program.cs" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Settings.settings" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Form1.resx" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Resources.resx" Description="File successfully backed up as D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RemoteServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,4 @@
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.pdb

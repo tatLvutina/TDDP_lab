@@ -1,4 +1,0 @@
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingLibrary\bin\Debug\NetRemotingLibrary.dll
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingLibrary\bin\Debug\NetRemotingLibrary.pdb
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingLibrary\obj\Debug\NetRemotingLibrary.dll
-c:\users\иван\documents\visual studio 2012\Projects\NetRemotingLab\NetRemotingLibrary\obj\Debug\NetRemotingLibrary.pdb

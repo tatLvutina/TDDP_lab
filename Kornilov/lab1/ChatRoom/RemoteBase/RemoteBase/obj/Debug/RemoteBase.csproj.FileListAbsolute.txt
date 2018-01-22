@@ -1,0 +1,14 @@
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.pdb
+F:\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.dll
+F:\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.pdb
+F:\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.csprojResolveAssemblyReference.cache
+F:\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.dll
+F:\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.pdb
+E:\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.dll
+E:\ChatRoom\RemoteBase\RemoteBase\bin\Debug\RemoteBase.pdb
+E:\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.csprojResolveAssemblyReference.cache
+E:\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.dll
+E:\ChatRoom\RemoteBase\RemoteBase\obj\Debug\RemoteBase.pdb

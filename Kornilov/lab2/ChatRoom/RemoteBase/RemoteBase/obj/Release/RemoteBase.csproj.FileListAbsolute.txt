@@ -1,0 +1,5 @@
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.dll
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.pdb
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.csprojResolveAssemblyReference.cache
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.dll
+E:\технология распределения\!трод\chatroom-new\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.pdb

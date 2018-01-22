@@ -1,0 +1,10 @@
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Release\RemoteServer.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Release\RemoteServer.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Release\RemoteBase.dll
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\bin\Release\RemoteBase.pdb
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Release\RemoteServer.csprojResolveAssemblyReference.cache
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Release\RemoteServer.Form1.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Release\RemoteServer.Properties.Resources.resources
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Release\RemoteServer.csproj.GenerateResource.Cache
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Release\RemoteServer.exe
+D:\TEST\Новая папка (2)\ChatRoom\RemoteServer\RemoteServer\obj\Release\RemoteServer.pdb
